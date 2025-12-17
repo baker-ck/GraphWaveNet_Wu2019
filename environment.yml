@@ -1,0 +1,6 @@
+name: gwn39
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+prefix: /opt/anaconda3/envs/gwn39
